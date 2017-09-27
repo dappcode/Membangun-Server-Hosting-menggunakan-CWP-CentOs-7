@@ -211,10 +211,12 @@ Is this ok [y/d/N]:`
 - Pastikan Anda Terkoneksi internet dengan BAGUS!
 
 - Jika yang muncul seperti ini :
+
 ![stack2](img/photo_2017-09-26_20-54-49.jpg)
 coba install sh cwp-latest lagi
 
 - Jika muncul seperti ini : 
+
 ![stack3](img/image_2017-09-26_21-15-42.png)
 Maka hapus terlebih dahulu MySQLnya 
 karena nanti proses penginstallan nya di gabung semua dengan installer cwp
