@@ -208,9 +208,7 @@ dhclient -v enp0s8
 Is this ok [y/d/N]:` 
 `di situ pilih N saja`
 
-- Jika muncul seperti ini : 
-![stack](img/photo_2017-09-26_20-52-55.jpg)
-Pastikan Anda Terkoneksi internet dengan BAGUS!
+- Pastikan Anda Terkoneksi internet dengan BAGUS!
 
 - Jika yang muncul seperti ini :
 ![stack2](img/photo_2017-09-26_20-54-49.jpg)
